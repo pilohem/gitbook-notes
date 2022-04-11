@@ -39,11 +39,15 @@ More information on using TF Serving [here](https://www.tensorflow.org/tfx/tutor
 * Throughput: Number of successful requests served per unit time
 * :moneybag:Cost
 
+{% hint style="info" %}
+Note: There is a tradeoff with these metrics. For example: if we want to improve latency, we can increase our computational power with more CPUs/GPUs but this also implies an increase in cost.
+{% endhint %}
+
 ![Source: http://deeplearning.ai/](<.gitbook/assets/image (2).png>)
 
 #### Example of application (Airline Recommendation Service)
 
 How does the three metrics relate each other?
 
-![Source: http://deeplearning.ai/](<.gitbook/assets/image (5).png>)
+![Source: http://deeplearning.ai/](<.gitbook/assets/image (5) (1).png>)
 

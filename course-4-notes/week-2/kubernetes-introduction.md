@@ -4,7 +4,7 @@
 
 ### General Idea
 
-![Kubernetes Main Steps](<../../.gitbook/assets/image (11).png>)
+![Kubernetes Main Steps](<../../.gitbook/assets/image (11) (1).png>)
 
 Key concepts
 
@@ -16,7 +16,7 @@ Key concepts
 * **Pod** - _a group of one or more application containers (such as Docker) and includes shared storage (volumes), IP address, and information about how to run them._
 * **Service** _- abstraction layer which defines a logical set of Pods and enables external traffic exposure, load balancing, and service discovery for those Pods._
 
-![Cluster Diagram: See details](<../../.gitbook/assets/image (9).png>)
+![Cluster Diagram: See details](<../../.gitbook/assets/image (9) (1).png>)
 
 `kubectl` main commands:
 
@@ -36,5 +36,5 @@ Key concepts
 
 For a complete list of commands, you can check the kubectl commands [cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/) and the [getting started](https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands) site.
 
-![Node overview. See details in Kubenetes site](<../../.gitbook/assets/image (7).png>)
+![Node overview. See details in Kubenetes site](<../../.gitbook/assets/image (7) (1).png>)
 

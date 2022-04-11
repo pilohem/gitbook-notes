@@ -14,9 +14,9 @@ If you are working on VS Code, there is an extension for Docker files. When inst
 
 ![Docker Extension on VS Code](../../.gitbook/assets/image.png)
 
-Building a `Dockerfile` can be difficult at first. You can see a screenshot below a sample breakup code:
+Building a `Dockerfile` can be difficult at first. You can see a screenshot below of a sample breakup code:
 
-![Dockerfile sample](<../../.gitbook/assets/image (6).png>)
+![Dockerfile sample](<../../.gitbook/assets/image (6) (1).png>)
 
 {% hint style="info" %}
 **Note:** When I tried running the docker container, I encounter this error
@@ -39,7 +39,7 @@ docker run --rm -p 81:80 mlepc4w2-ugl:no-batch
 
 You should see something like this:
 
-![](<../../.gitbook/assets/image (10).png>)
+![](<../../.gitbook/assets/image (10) (1).png>)
 
 Once the server is running you can also test it with Postman
 
